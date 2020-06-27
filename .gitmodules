@@ -1,0 +1,6 @@
+[submodule "hugo-uilite"]
+	path = hugo-uilite
+	url = https://github.com/uicardiodev/hugo-uilite.git
+[submodule ".\\themes\\uilite"]
+	path = .\\themes\\uilite
+	url = https://github.com/uicardiodev/hugo-uilite.git
