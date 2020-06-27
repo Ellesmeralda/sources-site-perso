@@ -1,0 +1,13 @@
+{
+	"title" : "Compétences",
+	"skills" : {
+		"InDesign" : "80",
+		"Illustrator" : "90",
+		"Photoshop" : "70",
+		"Animate" : "60",
+		"Suite Office" : "85",
+		"HTML/CSS" : "60", 
+		"Processing" : "50",
+		"Krita" : "90"
+	}
+}

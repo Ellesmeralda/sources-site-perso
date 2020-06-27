@@ -1,0 +1,17 @@
+{
+	"title" : "Projets",
+	"services" : [
+		{
+			"icon" : "pencil-ruler",
+			"title" : "Logo Design",
+			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+		},
+		{
+			"icon" : "pen-nib",
+			"title" : "Déambulation typographique",
+			"website" : "/projets/typo",
+			"websiteText" : "Hello", 
+			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+		}
+	]
+}

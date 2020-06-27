@@ -1,0 +1,29 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "2017",
+			"company" : "Université de Rouen Normandie",
+			"website" : "https://www.univ-rouen.fr/",
+			"description" : "Première Année Commune aux Etudes de Santé (PACES)."
+		},
+		{
+			"timeperiod" : "Décembre 2017 à Août 2018",
+			"company" : "C.H.R.S. URAS EMERGENCE-S, Rouen",
+			"website" : "https://www.emergence-s.fr/etablissement/uras",
+			"description" : "Service civique durant 8 mois. Contribuer à des actions d'accès à la santé, à la culture et à la citoyenneté auprès de personnes en situation de grande précarité."
+		},
+		{
+			"timeperiod" : "Octobre 2018 maintenant",
+			"company" : "ESADHaR, Le Havre",
+			"website": "https://esadhar.fr/",
+			"description" : "DNA Design graphique et Intéractivité option Médiation. Accrochage et médiation de l'exposition SUIMYAKU avec Patrice Balvay et Akira Inumaru. Participation à l'exposition Images différées."
+		},
+		{
+			"timeperiod" : "Août 2019",
+			"company" : "Motocultor Festival, St-Nolff",
+			"website": "https://www.motocultor-festival.com",
+			"description" : "Bénévolat, service au bar pendant 4 jours. Gestion des commandes, service, prise en main du matériel."
+		}
+	]
+}
